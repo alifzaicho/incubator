@@ -1,0 +1,5 @@
+bot mas alip
+/menu _______ menu
+/help ________ menu juga
+/tagmassa ___ booking tag
+/tagall ________ tag all member
